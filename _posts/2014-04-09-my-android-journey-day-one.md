@@ -1,4 +1,11 @@
-# Android学习笔记之——初识Android
+---
+layout: post
+title: Android学习笔记之——初识Android
+---
+
+# {{page.title}}
+
+<p class="meta">2014-04-09 22:54:15 珠海</p>
 
 从今天开始断断续续记录我在学习Android过程中的一些总结、想法以及疑惑，希望与大家一起学习进步，同时也希望大家监督。
 
